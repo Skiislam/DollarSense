@@ -33,7 +33,7 @@ export default function Navbar() {
     <header>
         {/* This will hold the logo link */}
         <Link to="/" className="logo"><i class='bx bx-happy'></i>
-            TradeBros.
+            DollarSense.
         </Link>
 
         {/* The menu icon element */}
